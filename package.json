@@ -9,7 +9,7 @@
     "test": "ng test",
     "lib:build": "ng build magic-string"
   },
-  "private": true,
+  "private": false,
   "dependencies": {
     "@angular/animations": "~12.1.1",
     "@angular/common": "~12.1.1",

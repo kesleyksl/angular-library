@@ -1,6 +1,25 @@
 {
-  "name": "magic-string",
-  "version": "0.0.1",
+  "name": "@kesleyksl/angular-library",
+  "version": "1.0.9",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kesleyksl/angular-library.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "author": {
+    "name": "kesley",
+    "url": "https://github.com/kesleyksl"
+  },
+  "homepage": "https://github.com/kesleyksl/angular-library#readme",
+  "schematics": "./schematics/collection.json",
+  "keywords": [
+    "magic strings"
+  ],
+  "bugs": {
+    "url": "https://github.com/kesleyksl/angular-library/issues"
+  },
   "peerDependencies": {
     "@angular/common": "^12.1.1",
     "@angular/core": "^12.1.1"
